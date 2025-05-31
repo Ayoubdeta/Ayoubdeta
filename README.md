@@ -106,7 +106,7 @@
 
 | Lenguajes          | Herramientas y Sistemas           | Otros                       |
 |--------------------|-----------------------------------|-----------------------------|
-| PHP, HTML, CSS     | Active Directory, MySQL           | Photoshop, máquinas virtuales |
+| PHP, HTML, CSS     | Active Directory, MySQL,SQL       | Photoshop, máquinas virtuales |
 | Java, Python, SQL  | Administración de servidores      | Conocimientos en hardware   |
 
 ---
@@ -128,7 +128,7 @@
 |------------|-----------|
 | Español 🇪🇸 | Nativo    |
 | Árabe 🇲🇦   | Nativo    |
-| Catalán 🏴 | C1         |
+| Catalán    | C1         |
 | Inglés 🇬🇧 | A2         |
 
 ---
@@ -152,15 +152,6 @@
 🔧 Aún no públicos. ¡Muy pronto empezaré a subir mis proyectos personales y educativos aquí!  
 *Estaré compartiendo proyectos sobre desarrollo web, scripts en Python y soluciones de sistemas.*
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoubajtirah&show_icons=true&theme=default" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubajtirah&layout=compact" />
-</p>
 
 ---
 
