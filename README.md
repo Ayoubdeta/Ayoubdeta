@@ -159,7 +159,9 @@
 ## 📫 Contacto
 
 📍 El Prat de Llobregat, España  
-📧 [ayoubajtirah@gmail.com](mailto:ayoubajtirah@gmail.com)
+- 📬 Email: [ayoubajtirah@gmail.com](mailto:ayoubajtirah@gmail.com)
+- 💻 GitHub: [Perfil Ayoub](https://github.com/Ayoubdeta)
+- 🟦Linkedin: [Ayoub Ajtirah](https://www.linkedin.com/in/ayoub-ajtirah-17a199314/)
 
 ---
 
