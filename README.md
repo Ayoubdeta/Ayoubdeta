@@ -151,8 +151,7 @@
 
 ## 📌 Proyectos destacados
 
-🔧 Aún no públicos. ¡Muy pronto empezaré a subir mis proyectos personales y educativos aquí!  
-*Estaré compartiendo proyectos sobre desarrollo web, scripts en Python y soluciones de sistemas.*
+- [NEOBANK](https://github.com/Ayoubdeta/NEOBANK.git)
 
 
 ---
