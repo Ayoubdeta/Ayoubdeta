@@ -1,6 +1,6 @@
 <!--
 <h1 align="center">👋 ¡Hola! Soy Ayoub Ajtirah</h1>
-<p align="center">Técnico en sistemas y desarrollador web en formación, apasionado por la tecnología y la resolución de problemas.</p>
+<p align="center">Técnico en sistemas y desarrollador web junior, apasionado por la tecnología y la resolución de problemas.</p>
 
 ---
 
@@ -71,7 +71,7 @@
 
 <h1 align="center">👋 ¡Hola! Soy Ayoub Ajtirah</h1>
 <p align="center">
-  Técnico en sistemas y desarrollador web en formación. <br>
+  Técnico en sistemas y Desarrollador web junior. <br>
   Apasionado por la tecnología, el aprendizaje continuo y la resolución de problemas.
 </p>
 
@@ -90,9 +90,9 @@
 
 ## 🚀 Sobre mí
 
-💻 Técnico en sistemas microinformáticos y redes con experiencia en soporte HelpDesk, administración de servidores y desarrollo web.  
-🔧 Me gusta resolver problemas, trabajar en equipo y seguir aprendiendo nuevas tecnologías.  
-🌱 Actualmente cursando el ciclo superior de **Desarrollo de Aplicaciones Web**.
+💻 Desarrollador web junior con formación en Desarrollo de Aplicaciones Web (DAW) y experiencia en HTML, CSS, JavaScript, PHP, SQL y Python.
+🔧 Me apasiona crear soluciones web, aprender nuevas tecnologías y enfrentar retos de programación.
+🌱 Recientemente finalicé mis estudios en DAW y estoy motivado para aplicar mis conocimientos en proyectos reales.
 
 ---
 
